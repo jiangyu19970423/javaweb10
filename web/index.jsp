@@ -85,7 +85,6 @@
                     $("#city").append(html);
                 }
             });
-
         });
 
         $("#city").change(function () {
